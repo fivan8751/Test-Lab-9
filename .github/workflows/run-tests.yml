@@ -1,4 +1,4 @@
-name: 🧪 Pytest API Tests CI/CD
+name: Pytest API Tests CI/CD
 
 on: 
   push:
